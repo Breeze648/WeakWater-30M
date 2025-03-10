@@ -207,6 +207,7 @@ SpongeBob-30M/
 ├── distill.py           # R1 推理蒸馏流程
 ├── eval_model.py        # 推理及评测脚本
 ├── requirements.txt     # Python 依赖列表
+├── Tech Report			 # 实验报告
 └── README.md            # 本文档
 ```
 
@@ -235,7 +236,7 @@ SpongeBob-30M/
 
 ## 许可证
 
-本项目采用 [MIT License](https://chatgpt.com/c/LICENSE) 开源协议。欢迎大家 fork、star 及参与贡献。
+本项目采用 [MIT License](./LICENSE.md) 开源协议。欢迎大家 fork、star 及参与贡献。
 
 ------
 
@@ -248,6 +249,8 @@ Happy coding!
 ------
 
 ## 附：实验记录
+
+详细内容请参考 [实验报告](./Tech_Report.md) 。
 
 ### 1.pretrain
 
